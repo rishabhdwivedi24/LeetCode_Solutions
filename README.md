@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
