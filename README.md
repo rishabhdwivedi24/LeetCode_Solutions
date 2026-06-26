@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -45,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
