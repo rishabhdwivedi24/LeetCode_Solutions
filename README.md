@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0128-longest-consecutive-sequence](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Math
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
