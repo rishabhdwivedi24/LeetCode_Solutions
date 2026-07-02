@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
