@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0216-combination-sum-iii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
