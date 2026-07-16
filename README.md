@@ -87,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
