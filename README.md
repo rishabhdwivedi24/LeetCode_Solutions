@@ -91,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
