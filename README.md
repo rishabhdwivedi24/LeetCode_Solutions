@@ -134,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
