@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/rishabhdwivedi24/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
